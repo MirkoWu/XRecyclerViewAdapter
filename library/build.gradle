@@ -29,15 +29,16 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:appcompat-v7:25.3.1'
     testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
 }
 
 publish {
     userOrg = 'mirkowu'
-    groupId = 'com.mirkowu.XRecyclerViewAdapter'
-    artifactId = 'library'
-    publishVersion = '0.0.2'
+    groupId = 'com.mirkowu'
+    artifactId = 'XRecyclerViewAdapter'
+    publishVersion = '0.0.1'
     desc = 'a adapter helper'
     website = "https://github.com/mirkowu/${rootProject.name}"
 }

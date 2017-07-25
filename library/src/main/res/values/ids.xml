@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="XRVAdapter_viewholder_support" type="id"/>
+    <item name="XRVAdapter_swiping_support" type="id"/>
+    <item name="XRVAdapter_dragging_support" type="id"/>
+    <item name="XRVAdapter_databinding_support" type="id"/>
+</resources>
