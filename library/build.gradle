@@ -37,7 +37,7 @@ publish {
     userOrg = 'mirkowu'
     groupId = 'com.mirkowu.XRecyclerViewAdapter'
     artifactId = 'library'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     desc = 'a adapter helper'
-    website = "https://github.com/mirkowwu/${rootProject.name}"
+    website = "https://github.com/mirkowu/${rootProject.name}"
 }
