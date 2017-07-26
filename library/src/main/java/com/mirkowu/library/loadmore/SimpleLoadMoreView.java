@@ -1,7 +1,7 @@
 package com.mirkowu.library.loadmore;
 
 
-import com.mirkowu.baserecyclerviewadapterlibrary.R;
+import com.mirkowu.library.R;
 
 /**
  * Created by BlingBling on 2016/10/11.

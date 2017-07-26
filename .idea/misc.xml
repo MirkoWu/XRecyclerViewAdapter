@@ -43,8 +43,4 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
-  <component name="SvnConfiguration" myUseAcceleration="nothing">
-    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
-    <option name="UPDATE_LOCK_ON_DEMAND" value="true" />
-  </component>
 </project>
